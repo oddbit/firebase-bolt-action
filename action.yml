@@ -1,9 +1,9 @@
 name: "GitHub Action for Firebase Bolt Compiler"
 author: "Dennis Alund"
-description: "Wraps the firebase bolt compiler CLI"
+description: "Firebase bolt compiler for realtime database rules"
 branding:
-  icon: "package"
-  color: "gray-dark"
+  icon: "database"
+  color: "yellow"
 runs:
   using: "docker"
   image: "Dockerfile"
